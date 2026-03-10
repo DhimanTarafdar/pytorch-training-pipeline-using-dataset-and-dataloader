@@ -24,4 +24,3 @@ data moves through the training pipeline.
 - Creating a custom PyTorch Dataset  
 - Using DataLoader for batching  
 - Understanding a basic training pipeline in PyTorch  
-
