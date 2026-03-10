@@ -25,7 +25,3 @@ data moves through the training pipeline.
 - Using DataLoader for batching  
 - Understanding a basic training pipeline in PyTorch  
 
-## Purpose
-
-The purpose of this notebook is to practice and understand the basic 
-workflow of training a model in PyTorch using Dataset and DataLoader.
